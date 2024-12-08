@@ -1,4 +1,3 @@
-# Streamlit Application with layout adjustments
 import streamlit as st
 import pandas as pd
 import pickle
